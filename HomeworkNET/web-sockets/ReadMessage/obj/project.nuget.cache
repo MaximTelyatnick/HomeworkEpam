@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "cCXgy/iBM5F2+FSUkvZlIuMXjehRyA/jiT4bJlkrMhNc7eEHSech+5QQSMq82+N6vyXnKlpVdpfzojlrRKQGuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BigBro\\Source\\Repos\\HomeworkEpam\\HomeworkNET\\web-sockets\\ReadMessage\\ReadMessage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BigBro\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.0\\amazon.lambda.apigatewayevents.2.7.0.nupkg.sha512",
+    "C:\\Users\\BigBro\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\BigBro\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.0\\amazon.lambda.serialization.systemtextjson.2.4.0.nupkg.sha512",
+    "C:\\Users\\BigBro\\.nuget\\packages\\awssdk.apigatewaymanagementapi\\3.7.300.5\\awssdk.apigatewaymanagementapi.3.7.300.5.nupkg.sha512",
+    "C:\\Users\\BigBro\\.nuget\\packages\\awssdk.core\\3.7.300.5\\awssdk.core.3.7.300.5.nupkg.sha512",
+    "C:\\Users\\BigBro\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.300\\awssdk.dynamodbv2.3.7.300.nupkg.sha512",
+    "C:\\Users\\BigBro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\BigBro\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.25\\microsoft.netcore.app.crossgen2.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

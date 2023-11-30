@@ -1,0 +1,6 @@
+C:\Users\BigBro\Source\Repos\HomeworkEpam\Homework .NET\web-sockets\TestProject\bin\Release\net6.0\publish\TestProject.deps.json
+C:\Users\BigBro\Source\Repos\HomeworkEpam\Homework .NET\web-sockets\TestProject\bin\Release\net6.0\publish\TestProject.runtimeconfig.json
+C:\Users\BigBro\Source\Repos\HomeworkEpam\Homework .NET\web-sockets\TestProject\bin\Release\net6.0\publish\TestProject.pdb
+C:\Users\BigBro\Source\Repos\HomeworkEpam\Homework .NET\web-sockets\TestProject\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\BigBro\Source\Repos\HomeworkEpam\Homework .NET\web-sockets\TestProject\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\BigBro\Source\Repos\HomeworkEpam\Homework .NET\web-sockets\TestProject\bin\Release\net6.0\publish\TestProject.dll

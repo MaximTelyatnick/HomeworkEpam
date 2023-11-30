@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d499fc1-a235-4d41-889a-da430c051be3": {
+      "ProjectGuid": "2d499fc1-a235-4d41-889a-da430c051be3",
+      "DisplayName": "GetMessages",
+      "ColorIndex": 0
+    },
+    "37f4ef47-1065-4b47-929e-64ca8a88b4c3": {
+      "ProjectGuid": "37f4ef47-1065-4b47-929e-64ca8a88b4c3",
+      "DisplayName": "GetAllChats",
+      "ColorIndex": 1
+    },
+    "3d0bd234-a09a-48a1-8d96-af5c6b3e0fe3": {
+      "ProjectGuid": "3d0bd234-a09a-48a1-8d96-af5c6b3e0fe3",
+      "DisplayName": "OnConnect",
+      "ColorIndex": 2
+    },
+    "4c9d77b1-760f-43a2-877f-d9a500e37b45": {
+      "ProjectGuid": "4c9d77b1-760f-43a2-877f-d9a500e37b45",
+      "DisplayName": "SendMessage",
+      "ColorIndex": 3
+    },
+    "157fe19b-d6c5-46a5-9ebd-501fa96324b9": {
+      "ProjectGuid": "157fe19b-d6c5-46a5-9ebd-501fa96324b9",
+      "DisplayName": "OnDisconnect",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

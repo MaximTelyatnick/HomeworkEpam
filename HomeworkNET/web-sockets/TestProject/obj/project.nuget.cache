@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bZBJlULO0RGBoCxDUKKijneQdiLbIcVIyzcrHO6fYLh5XsNuc7Fb5EURKwi/qbMcXl7DTGMwB+DWfu0Gs8VA1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BigBro\\Source\\Repos\\HomeworkEpam\\HomeworkNET\\web-sockets\\TestProject\\TestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BigBro\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\BigBro\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.0\\amazon.lambda.serialization.systemtextjson.2.4.0.nupkg.sha512",
+    "C:\\Users\\BigBro\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.25\\microsoft.netcore.app.crossgen2.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
